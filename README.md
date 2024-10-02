@@ -2,7 +2,7 @@
 
 ## ¿Qué es **Wayback Machine**?
 
-Wayback Machina es un servicio creado por Internet Archive que permite a los usuarios los estados de una web a través del tiempo. Esto permite a los usuarios mirar como era la web antes.
+Wayback Machina es un servicio creado por [archive.org](https://archive.org/) que permite a los usuarios los estados de una web a través del tiempo. Esto permite a los usuarios mirar como era la web antes.
 
 ![archive.org](https://archive.org/offshoot_assets/assets/ia-logo-2c2c2c.03bd7e88c8814d63d0fcb35fc01f37c3.svg)
 
