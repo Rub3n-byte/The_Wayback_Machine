@@ -7,10 +7,5 @@
 Wayback Machina es un servicio creado por [archive.org](https://archive.org/), una organización sin fin de lucro, que permite a los usuarios ver las páginas web como eran en el pasado, archivando 624 mil millones de páginas web. Esto permite a investigadores, estudiantes, historiadores o simplemente entusiastas, con el objectivo de acceder a contenido que ya no está disponible en línea, preservando la historia digital para el futuras búsquedas, evitando así el lost media.
 
 <p align="right">
-  <img src="https://archive.org/offshoot_assets/assets/ia-logo-2c2c2c.03bd7e88c8814d63d0fcb35fc01f37c3.svg" alt="archive.org" width="200"/>
+  <img src="https://archive.org/offshoot_assets/assets/ia-logo-2c2c2c.03bd7e88c8814d63d0fcb35fc01f37c3.svg" alt="archive.org" width="160"/>
 </p>
-
-Aquí va tu texto paralelo a la imagen.
-
-
-![archive.org](https://archive.org/offshoot_assets/assets/ia-logo-2c2c2c.03bd7e88c8814d63d0fcb35fc01f37c3.svg)
