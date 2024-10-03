@@ -2,7 +2,7 @@
 
 ## ¿Qué es **Wayback Machine**?
 
-<p align="right">
+<p align="center">
   <img src="https://th.bing.com/th/id/R.11898280f29af225e135509a317901b8?rik=W0oOwwWMkLIM6w&riu=http%3a%2f%2fblog.archive.org%2fwp-content%2fuploads%2f2016%2f08%2fwayback-machine-logo.jpg&ehk=DthMt0zxd%2bTte8GZ1WRE7XAAF%2fAO2E5qA3nGJyYUcAo%3d&risl=&pid=ImgRaw&r=0" alt="archive.org"/>
 </p>
 
